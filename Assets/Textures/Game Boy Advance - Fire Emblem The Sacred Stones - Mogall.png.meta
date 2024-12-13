@@ -1,0 +1,2063 @@
+fileFormatVersion: 2
+guid: b11db42f2f4dd2a46893af9c6e31265b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 363
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3a5c79d158bcd4f8fb84cc3c5d6f97
+      internalID: 632674938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 361
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0b48d18b3c7ae47931791ba3832fe1
+      internalID: -1994994575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 360
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c080f72df4f8384bb874ba1686177f6
+      internalID: 1065849670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 361
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d55a83e656013468c1bc64fa3be687
+      internalID: -1841549232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 362
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da903abb389e5c4980f23e6da488a3b
+      internalID: 1218419478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 362
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5409a9e9fd87668499b46f7a244cfd06
+      internalID: 136870289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 368
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52cf63ee1c264243b03518d0aa4f964
+      internalID: 1451795080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 363
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e2ea0d8c6d8e34caa20e13dffe00e1
+      internalID: 1297231536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 363
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831015b1b91de7d4d8fd9782397640f6
+      internalID: -166748687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 364
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbf21803e859d54c9ff320402d2e808
+      internalID: 124220380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 364
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1599d94775e54a0458b2f2746b2ac749
+      internalID: 216811565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 364
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a52a17d9e9b924392866beba8e0c15
+      internalID: 1752916337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 324
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0ce8a5a3a8a3d459a93ef209475745
+      internalID: -1099420444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 323
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eb0e941871ece488b58f817032ce40
+      internalID: -1187234997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 323
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258ee7ea1bcbf724ab93375c9c3ed977
+      internalID: 357458664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 325
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddefde42c4890c45b4575370a9694ba
+      internalID: -2071014753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 326
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3784c55b446563e41883917c44aca796
+      internalID: -538427334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 322
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89328e6e2ce76a41b8b68676f0d40c8
+      internalID: -1932490220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_18
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 336
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628069b1981f748448a81ea152413a45
+      internalID: 1449630102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 305
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c32b177ba38ee74c82ca27262597f0f
+      internalID: 1525390939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 305
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953d0a1f7d2cd8a42b648328d567e7ed
+      internalID: -1599819419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 305
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494a80ea7fc9eda4ca65e4bdeb548de3
+      internalID: -1816509567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 305
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b5003fb48f59247bd9cc4b42b7afbe
+      internalID: -2109517319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_23
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 305
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5688a0421a26dc4d9aba0b0d3f7c244
+      internalID: -1036191463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 305
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a754517f4a78524986c2beb98ef7dfb
+      internalID: 77089886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_25
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 304
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246ee286b8f821d42be076f47554ed6f
+      internalID: -1398530764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 267
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980535a15911fcb4591c16712b8c599e
+      internalID: -1066275773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_27
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 261
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93bf34345f48b24183f6f253c0e5805
+      internalID: -1165016981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 260
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7fd84b34158eb4180c2ec202de3937
+      internalID: -744706414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 258
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bb6193b90fc6d4981612d830f1dfdc
+      internalID: 1688876685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_30
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 272
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642abc6d1e0606045b11062bdc5bbe0f
+      internalID: -1135566253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 251
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b3a4e032a0a53419dab52281226d0a
+      internalID: 1034519268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 251
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fceafd417551324296610e9df98b482
+      internalID: 1953215627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 251
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6038fb580b533ad4da545da649f704cd
+      internalID: 2080557275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_34
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 251
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3468c57d617aae44981cca95450a8cb
+      internalID: -1852908427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_35
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 241
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8be4171e7a08514e9a139ad45060c00
+      internalID: 143765925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 178
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac8457b15e0d9945b4463729b114131
+      internalID: -1152124644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 176
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83d1649acbae7f4f992ddfff454f06d
+      internalID: 1165525380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 169
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e41f85af5368cf438e7316c5d57a310
+      internalID: 1786317802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_39
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 179
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dc1c5ad0d786d4a94f7a66dfeb17bf
+      internalID: -155489920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 178
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730c2c108eade3e4ea5783ea244b75a6
+      internalID: -508424041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_41
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 177
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e1c941257addb4a96f0705b656fa22
+      internalID: 685424923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_42
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 169
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044b60994499588499f7ffb63eb4b908
+      internalID: 1764599978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_43
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 178
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a1acea8ce9b44479741a9d055a2b27
+      internalID: 32976343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_44
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 180
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6935b527da8b60545843ca40824b3602
+      internalID: -1917092798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_45
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 209
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7e035518e7ea946a283d5633c00ad0
+      internalID: -320283953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 209
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87ef637e3d3a034d802ce95c13bdf8b
+      internalID: 1619859570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_47
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 177
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedd8d754bed57343bca8728aa057695
+      internalID: -543933802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_48
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 177
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c56ace026ed404b890fa0a10eb99a5
+      internalID: 908450727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_49
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 169
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d33743b777b23044a7f318f91e787ca
+      internalID: -745210998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 169
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ebff7941d160444bf0dc673724aaaa
+      internalID: 326677313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_51
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 169
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f307f84f0aeb01f4f9d2db2affd8c5a9
+      internalID: -1140441801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 169
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32aafaf3148839419cb63b2ed354298
+      internalID: 923200658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_53
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 169
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b87a7cd3899dd4784003d5680ea408
+      internalID: -1794893575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_54
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 169
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008bc23ccc8f79d4498c36deb0233e70
+      internalID: -731805661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_55
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 169
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2181c27c8d6676f4f9a520a24c2f159b
+      internalID: -350222763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_56
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 145
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f754af5a7511142ab23633371ec832
+      internalID: -490132413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_57
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 131
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27adb98ff561cf74b980d3c8bdfda520
+      internalID: -627424551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_58
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 132
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf298d7e2e97e94d9831d9f57addea3
+      internalID: 1329995166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_59
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 133
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15842ef0cec489a46bf09833fcf069bd
+      internalID: 49965376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_60
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 134
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cfec4fe742ee347846bface9786d57
+      internalID: -1007814078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_61
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 134
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07cf5bf352301942a44e92763f3079b
+      internalID: 1642315525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_62
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 134
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fff65191ae5f442a8a6f66c1c8472b
+      internalID: -927731362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_63
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 145
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1df18abdb6b8ee478b587f55a869f26
+      internalID: 1858490173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_64
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 116
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d9930e1b72a5342add92d83fbe734d
+      internalID: 1462138193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_65
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 116
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fdb285822e57c4d9c76fd94ccf527a
+      internalID: 66962630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_66
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 116
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c4732ff02b1b14baffedba57ced0b9
+      internalID: 2083304368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 116
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4d5d930b982c940ad46ef45c21efa2
+      internalID: 1191473400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_68
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 116
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53ab30ce64d28d4cada17216bde5bc2
+      internalID: -1499867320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_69
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 116
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c10af08f459a2b44949f15313335958
+      internalID: -1750111010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 83
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cae2d37efe49746a2d66549608aa75
+      internalID: -985105419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 84
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe87cfc00159ed44ae936f63c5b07bd
+      internalID: -1964173759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_72
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 85
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96639affc532a53448763c35fd57be1e
+      internalID: -284568478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_73
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 81
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9ce9e292d175143811158c31b1e9fc
+      internalID: -1280703584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e21414d944bf045af7420550fda3b5
+      internalID: -709223472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_75
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 80
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4158846d0d17341a82d6eb1dcaf08c
+      internalID: 244753978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_76
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 74
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b673afd7e0814e45967b0c9a9330878
+      internalID: -478458550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_77
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 64
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e9a27aba5fc1245a369b63642a99d4
+      internalID: 576987481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_78
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe9d70e09c24374fa8bd5257a85ce40
+      internalID: 253995553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_79
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 64
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e448a580c1163014d8ae2cb46093c996
+      internalID: 496707621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 64
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4552f76eb0970934ab81b66e2eeb5626
+      internalID: -2127093113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 64
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb0da788c20d4f44a62056fb950be33
+      internalID: 1556185619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_82
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 64
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c44b0e515c4294988080db7fd0a9fa
+      internalID: 351797993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_83
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 64
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1bbbd0e5e1e6c41b3716e3872c04d6
+      internalID: -1318787745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eddf5f343bba83478657c2e5eae017a
+      internalID: 647127547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_85
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 22
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b0d00822760724d82e7a82da23a50d
+      internalID: -435574854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_86
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f8e86263433e6458bb262cdb570896
+      internalID: -175368550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_87
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 15
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d27948acc2d2a646a7d4494307e2c38
+      internalID: 235996639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_0: 632674938
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_1: -1994994575
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_10: 216811565
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_11: 1752916337
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_12: -1099420444
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_13: -1187234997
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_14: 357458664
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_15: -2071014753
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_16: -538427334
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_17: -1932490220
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_18: 1449630102
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_19: 1525390939
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_2: 1065849670
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_20: -1599819419
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_21: -1816509567
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_22: -2109517319
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_23: -1036191463
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_24: 77089886
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_25: -1398530764
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_26: -1066275773
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_27: -1165016981
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_28: -744706414
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_29: 1688876685
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_3: -1841549232
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_30: -1135566253
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_31: 1034519268
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_32: 1953215627
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_33: 2080557275
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_34: -1852908427
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_35: 143765925
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_36: -1152124644
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_37: 1165525380
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_38: 1786317802
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_39: -155489920
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_4: 1218419478
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_40: -508424041
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_41: 685424923
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_42: 1764599978
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_43: 32976343
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_44: -1917092798
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_45: -320283953
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_46: 1619859570
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_47: -543933802
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_48: 908450727
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_49: -745210998
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_5: 136870289
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_50: 326677313
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_51: -1140441801
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_52: 923200658
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_53: -1794893575
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_54: -731805661
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_55: -350222763
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_56: -490132413
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_57: -627424551
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_58: 1329995166
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_59: 49965376
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_6: 1451795080
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_60: -1007814078
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_61: 1642315525
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_62: -927731362
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_63: 1858490173
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_64: 1462138193
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_65: 66962630
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_66: 2083304368
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_67: 1191473400
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_68: -1499867320
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_69: -1750111010
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_7: 1297231536
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_70: -985105419
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_71: -1964173759
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_72: -284568478
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_73: -1280703584
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_74: -709223472
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_75: 244753978
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_76: -478458550
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_77: 576987481
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_78: 253995553
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_79: 496707621
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_8: -166748687
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_80: -2127093113
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_81: 1556185619
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_82: 351797993
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_83: -1318787745
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_84: 647127547
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_85: -435574854
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_86: -175368550
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_87: 235996639
+      Game Boy Advance - Fire Emblem The Sacred Stones - Mogall_9: 124220380
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 39ad1d6dc3908844d85f092cb9c8d427
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_0
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.485114, y: 0.48004997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -178, y: -213.5}
+        - {x: -179.34082, y: -149.17041}
+        - {x: -115, y: -148.5}
+        - {x: -115, y: -213.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af16478a0143c8429333eaf800dc866
+      internalID: -1649346811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 329
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b6547146b2bc44db7dd1acb5aad9a8
+      internalID: -1833378763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 403
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09b0c56b464c2543bf8a646f7626de2
+      internalID: 1839281888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 905
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb17b3185e81d6445bd21a9aed75b605
+      internalID: 955370801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_4
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 449
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfb438c144e243409c7f0c15808ebd6
+      internalID: -431646993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_5
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 449
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffb7ee5d4b25b24f839c733f8dd75f0
+      internalID: -1043637961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_6
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 449
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00c9ca3f8b962f489246cebd1d6797e
+      internalID: -1009341207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 449
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57866e8ee2f9e7949af7333a89086d8e
+      internalID: -2127540950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 825
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c75492985c56fb40b80c7e5ec730cab
+      internalID: -2071052801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 985
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e49ed4a4c746a94e91e59e18515037a
+      internalID: 673149803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_10
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 591
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34529e1f8da24174d905726d3f5b2a1f
+      internalID: 1109418917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1011
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0586362ae568b8c49a0904a9d10aa7c7
+      internalID: -267039410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_0: -1649346811
+      Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_1: -1833378763
+      Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_10: 1109418917
+      Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_11: -267039410
+      Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_2: 1839281888
+      Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_3: 955370801
+      Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_4: -431646993
+      Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_5: -1043637961
+      Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_6: -1009341207
+      Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_7: -2127540950
+      Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_8: -2071052801
+      Nintendo Switch - Fire Emblem Engage - Weapon Item Icons Emblem Characters_9: 673149803
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

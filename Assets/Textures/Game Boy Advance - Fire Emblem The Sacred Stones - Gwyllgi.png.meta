@@ -1,0 +1,963 @@
+fileFormatVersion: 2
+guid: 2115e56dccb69384f8c171ae1ea8da5b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 435
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be1575e1949d9a42b070a78cde9afb7
+      internalID: 520145415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 435
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73ac1d48d1ff2247a02bf4a79074d7d
+      internalID: -1569924458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 385
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216074f1f887ada45a6973d586078005
+      internalID: -637576868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 385
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7243145573c9b44f8f7bb3571406c6a
+      internalID: 38955994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 385
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2159a507137c5479e15db51a1e721e
+      internalID: 752692471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 385
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e585747210c3d474bbf073b78ccb08ce
+      internalID: -2018037912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 385
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd1f2cbeadef524982d40646b889fdd
+      internalID: 1354889743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 385
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4251ea3135bcb7d4793fc7823f96d9ce
+      internalID: -1390435665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12a4f0b3f9e6d140902bf6a364c5a45
+      internalID: -522958140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 330
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403694f0f60dae74487816403ce0a84b
+      internalID: -1548962916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 327
+        width: 83
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2353ff04287477a4ab981b14606545c4
+      internalID: 1693223852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 328
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae7f0a7121e7fa45a7c427c15767d34
+      internalID: 2130279578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 328
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b66cc6b25ce69340b1fc876fff9c1ce
+      internalID: -88559346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 321
+        width: 38
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082b81573b665264db8a08ffebf59c62
+      internalID: 2039756572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_14
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 321
+        width: 36
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b83b3f3021098a4a9e35cecf62cfa5e
+      internalID: -85021707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 321
+        width: 40
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b9f81eae362be499580d7f4b5177e5
+      internalID: 34969556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 321
+        width: 40
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d014935cad9a745b1e88fdcd148718
+      internalID: -210753206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 256
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b65c8e339dcd34fb10e26127b1fd30
+      internalID: 1689895182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 256
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89519655463a11342aaf2addba2a39f9
+      internalID: 1283007645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 249
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2e36046d443b94498b8bb44baf712d
+      internalID: -100142966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 249
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9a64117acf86f42a63667f9286b93b
+      internalID: 543535286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 249
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e46435acd66c84da217c20d55511ed
+      internalID: 654057396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_22
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 249
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88b013780ccde74c82b85569cfbfdee
+      internalID: -632607873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 249
+        width: 40
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f38da8c6e4466544b352b40765cfcd7
+      internalID: -1499520440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 249
+        width: 40
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594ec98222cf01b45860f4fd87358890
+      internalID: -2138321646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 189
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642a1d1c7fcb71246816fbd4b0c45207
+      internalID: 1509686860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 189
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9419c222805af4f937adeb8b101cde
+      internalID: -1908327304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 166
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d6e9c832c819243829a8d667a06218
+      internalID: 166610849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 99
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b604a064e133544fba8523bb79e4ae0
+      internalID: -1468066168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_29
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 99
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f563fddfe9b32e9489811274eddfd0b7
+      internalID: -1449068573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 99
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460f3cd5768076f429c19a8754202b68
+      internalID: -801050428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_31
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 99
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0210f291459d24446b1be0c138e9da36
+      internalID: -755538135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_32
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 99
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e302f331a53ed2740a790035229b684b
+      internalID: -1394359074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_33
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 98
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a8806a5f9998e489c971e472bdb850
+      internalID: 1490525721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d598bc941f47a0041a6a0109422a9fd4
+      internalID: -1307539631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e5a72a437df1a40a6960634951c791
+      internalID: 867394361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 9
+        width: 76
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f094f4c19decc7d43b706c1e4985491d
+      internalID: 1784021497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 9
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab15aa7f91f2b046abbaadea689ab2e
+      internalID: -226832042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_0: 520145415
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_1: -1569924458
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_10: 1693223852
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_11: 2130279578
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_12: -88559346
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_13: 2039756572
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_14: -85021707
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_15: 34969556
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_16: -210753206
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_17: 1689895182
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_18: 1283007645
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_19: -100142966
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_2: -637576868
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_20: 543535286
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_21: 654057396
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_22: -632607873
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_23: -1499520440
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_24: -2138321646
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_25: 1509686860
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_26: -1908327304
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_27: 166610849
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_28: -1468066168
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_29: -1449068573
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_3: 38955994
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_30: -801050428
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_31: -755538135
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_32: -1394359074
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_33: 1490525721
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_34: -1307539631
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_35: 867394361
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_36: 1784021497
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_37: -226832042
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_4: 752692471
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_5: -2018037912
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_6: 1354889743
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_7: -1390435665
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_8: -522958140
+      Game Boy Advance - Fire Emblem The Sacred Stones - Gwyllgi_9: -1548962916
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
